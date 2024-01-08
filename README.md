@@ -15,3 +15,7 @@ It is a javascript engine that let us to convert our javascript to machine level
 ### Non blocking io devices
 
 The main advantage of non-blocking IO is that it allows users to continue with other tasks while waiting for the I/O operation to complete.
+
+### Event loop
+
+a loop that runs as long as your Node. js application is up and running.
